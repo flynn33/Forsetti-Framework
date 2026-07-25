@@ -654,3 +654,9 @@ To uninstall templates: `Scripts/uninstall-forsetti-xcode-template.sh`
 
 Forsetti is opinionated on purpose.
 The rules are not there to reduce flexibility; they are there to preserve long-term flexibility by preventing architecture erosion.
+
+## Contributing
+
+This project is open source under Apache License, Version 2.0. You are welcome to use, modify, and redistribute the code under that license.
+
+Outside contributions to this repository are not accepted. Pull requests and collaboration requests will not be reviewed or merged. See [CONTRIBUTING.md](CONTRIBUTING.md).
